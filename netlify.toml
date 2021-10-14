@@ -8,6 +8,6 @@
   status = 200
 
 [template.environment]
-  REACT_APP_ENDPOINT = "Your Appwrite Server Endpoint"
-  REACT_APP_PROJECT = "Your Appwrite project ID"
-  REACT_APP_COLLECTION_ID = "Your Collection ID"
+  REACT_APP_ENDPOINT = "http://appwrite.ooguy.com/v1"
+  REACT_APP_PROJECT = "6168ac4d0cfbb"
+  REACT_APP_COLLECTION_ID = "6168ad254d8ab"

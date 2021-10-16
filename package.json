@@ -1,5 +1,5 @@
 {
-    "proxy": "https://appwrite.disanvnch.com/v1",
+    "proxy": "https://disanvnch.com",
     "name": "todo-mvc",
     "version": "0.1.0",
     "private": true,

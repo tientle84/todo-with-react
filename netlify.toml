@@ -8,6 +8,6 @@
   status = 200
 
 [template.environment]
-  REACT_APP_ENDPOINT = "https://6c7c-204-210-243-61.ngrok.io/v1"
+  REACT_APP_ENDPOINT = "https://appwrite.ooguy.com/v1"
   REACT_APP_PROJECT = "6168ac4d0cfbb"
   REACT_APP_COLLECTION_ID = "6168ad254d8ab"
